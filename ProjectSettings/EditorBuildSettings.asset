@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BasAssetStore/TruckScene.unity
+    guid: 1557d2726d7e8ff488d1dc3d0dd94ce5
   m_configObjects: {}
